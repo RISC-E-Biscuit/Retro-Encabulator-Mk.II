@@ -8,8 +8,8 @@
     * Screw slot placement will be improved at some point.
 */
 // Specifications - editable via customisation menu.
-TopText="SYNTH-DIY";
-TopTextX=35;
+TopText="EXCESSIVE MACHINES";
+TopTextX=22;
 TopTextY=122;
 TextBottomX=14;
 TextBottomY=4;
